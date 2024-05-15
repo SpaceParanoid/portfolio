@@ -5,6 +5,7 @@
     background: url('images/oldschooldesktop.jpg');
     background-size:cover;
     position:relative;
+
 }
 /* text css above hero image*/
 .hero_title {
@@ -46,6 +47,12 @@
 .servicesText:hover {
     border: 1px solid #008000;
 }
+
+.navbar-brand {
+    color: white;
+}
+
+
 
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
